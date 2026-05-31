@@ -6,6 +6,5 @@
 4.	Son, S. J., Park, B., Choi, J. W., Roh, H. W., Kim, N-R., Sin, J. E., Kim, H., Lim, H. K., & Hong, C. H. (2019). Psychological resilience enhances the orbitofrontal network in the elderly with mild cognitive impairment. Frontiers in Psychiatry, 10, 615. https://doi.org/10.3389/fpsyt.2019.00615
 5.	Sin, J. E. (2016). Exploring the music-induced autobiographical memory in depression: An electroencephalography (EEG) alpha oscillatory activity study (Master's thesis). Sungkyunkwan University.
 
-
 * 전체 pdf 버전 공개
 * 3은 저작권이 출판사에 귀속되므로 accepted manuscript 기준으로 공개
